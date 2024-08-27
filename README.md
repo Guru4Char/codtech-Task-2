@@ -10,3 +10,7 @@ Designing finite state machines (FSMs) using Verilog or VHDL in a VLSI software 
 
 Conclusion : 
 In conclusion, designing FSMs with Verilog or VHDL and testing them in a VLSI software environment is crucial for developing reliable digital systems. By defining states and transitions, and writing comprehensive testbenches, you can thoroughly verify that the FSM functions correctly under all expected conditions. Simulation and analysis of the FSM's behavior ensure that it meets the design requirements and performs as intended. This meticulous approach to design and testing helps in identifying and resolving potential issues early, leading to robust and dependable digital circuit implementations.
+
+output:
+![WhatsApp Image 2024-08-26 at 18 13 18_cec61e94](https://github.com/user-attachments/assets/b8fd0bdd-2976-4ce4-8925-e96b896bc62c)
+
